@@ -1,0 +1,39 @@
+
+[{
+    "name": "Adnan",
+    "email": "adnan@codeforindia.com",
+    "phone": "8247026579",
+    "countryCode": "91",
+    "password": "$2b$11$SZAp6RCVkOxmxs84pq26pu.6zQtdqNPMLAs3RjZwteiKi2vqpdX4S",
+    "tasks": [
+        {
+            "name": "Attend your sessions regularly",
+            "taskId": 1714017684547,
+            "isCompleted": false
+        },
+        {
+            "name": "Attend your sessions regularly",
+            "taskId": 1714018100706.539,
+            "isCompleted": false
+        },
+        {
+            "name": "Attend your sessions regularly",
+            "taskId": 1714018131111.2686,
+            "isCompleted": false
+        },
+        {
+            "name": "Attend your sessions regularly",
+            "taskId": 1714018164048,
+            "isCompleted": false
+        }
+    ]
+},
+{
+    "name": "Adnan",
+    "email": "adnan@code.com",
+    "phone": "8247026579",
+    "countryCode": "+91",
+    "password": "$2b$11$ilx4r2Us9IKpOoEqyiXk5O5f25zFCs33.egUpeKiOLGndCruXXXp.",
+    "tasks": []
+}
+]
